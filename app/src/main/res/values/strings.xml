@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Idle Pharmacy</string>
+    <string name="pharmacy">pharmacy</string>
+    <string name="idle_pharmacy">Idle Pharmacy</string>
+    <string name="welcome">You\'re welcome Josh</string>
+    <string name="drug">Drug</string>
+    <string name="pills_served">Pills Served</string>
+    <string name="coins">Coins</string>
+    <string name="price">Price:</string>
+    <string name="quantity">Quantity:</string>
+</resources>
